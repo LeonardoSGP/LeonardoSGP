@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:2d6a4f&height=200&section=header&text=Leonardo%20Sadot%20Garcia%20Pino&fontSize=36&fontColor=52d9a4&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20en%20Sistemas%20%7C%20Full%20Stack%20Developer&descAlignY=58&descColor=a8b2d8" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=52D9A4&center=true&vCenter=true&width=600&lines=Transformando+ideas+en+c%C3%B3digo+limpio;Backend+%2B+Frontend+%3D+Full+Stack;8vo+semestre+%2C+siempre+aprendiendo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=52D9A4&center=true&vCenter=true&width=600&lines=Transformando+ideas+en+c%C3%B3digo+limpio;Backend+%2B+Frontend+%3D+Full+Stack;8vo+semestre+%2C+siempre+aprendiendo)](https://git.io/typing-svg)
 
 </div>
 
@@ -69,8 +69,8 @@
 
 <div align="center">
 
-[![Sistema Urbans](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoSGP&repo=REPO_URBANS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=52d9a4&text_color=a8b2d8&icon_color=52d9a4)](https://github.com/LeonardoSGP/REPO_URBANS)
-[![Gestor de Proyectos](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoSGP&repo=REPO_GESTOR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=52d9a4&text_color=a8b2d8&icon_color=52d9a4)](https://github.com/LeonardoSGP/REPO_GESTOR)
+[![Sistema Urbans](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoSGP&repo=Sistema_Urbans&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=52d9a4&text_color=a8b2d8&icon_color=52d9a4)](https://github.com/LeonardoSGP/Sistema_Urbans)
+[![Gestor de Proyectos](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoSGP&repo=e2_backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=52d9a4&text_color=a8b2d8&icon_color=52d9a4)](https://github.com/LeonardoSGP/e2_backend)
 
 </div>
 
