@@ -10,16 +10,12 @@
 
 ## 👾 Sobre mí
 
-```typescript
-const leonardo = {
-  nombre:    "Leonardo Sadot Garcia Pino",
-  rol:       "Full Stack Developer",
-  semestre:  "8vo — Ingeniería en Sistemas Computacionales",
-  enfoque:   ["Backend robusto", "Frontend dinámico", "Arquitecturas escalables"],
-  objetivo:  "Construir software que aporte valor real",
-  buscando:  "Equipos dinámicos y retos técnicos desafiantes",
-};
-```
+¡Hola! Soy un apasionado por la tecnología, el desarrollo de software y la resolución de problemas complejos a través de código limpio y eficiente. Me gusta transformar ideas abstractas en aplicaciones funcionales, modernas y escalables que aporten valor real a los usuarios.
+
+- 🎓 **Formación:** 8vo semestre de Ingeniería en Sistemas Computacionales — TecNM Campus Oaxaca
+- 💡 **Enfoque:** Full Stack — backend robusto y frontend dinámico y responsivo
+- 🌱 **Aprendizaje:** Siempre adoptando nuevas tecnologías, frameworks y mejores prácticas de la industria
+- 🎯 **Objetivo:** Integrarme a equipos de desarrollo dinámicos donde pueda aportar, crecer y enfrentar retos técnicos reales
 
 ---
 
@@ -56,14 +52,14 @@ const leonardo = {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=52d9a4&icon_color=52d9a4&text_color=a8b2d8"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=52d9a4&text_color=a8b2d8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LeonardoSGP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=52d9a4&icon_color=52d9a4&text_color=a8b2d8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSGP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=52d9a4&text_color=a8b2d8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=52D9A4&fire=52D9A4&currStreakLabel=52D9A4&sideLabels=A8B2D8&dates=A8B2D8&stroke=1F2937)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeonardoSGP&theme=tokyonight&hide_border=true&background=0D1117&ring=52D9A4&fire=52D9A4&currStreakLabel=52D9A4&sideLabels=A8B2D8&dates=A8B2D8&stroke=1F2937)](https://git.io/streak-stats)
 
 </div>
 
@@ -73,8 +69,8 @@ const leonardo = {
 
 <div align="center">
 
-[![Sistema Urbans](https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=REPO_URBANS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=52d9a4&text_color=a8b2d8&icon_color=52d9a4)](https://github.com/TU_USERNAME/REPO_URBANS)
-[![Gestor de Proyectos](https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=REPO_GESTOR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=52d9a4&text_color=a8b2d8&icon_color=52d9a4)](https://github.com/TU_USERNAME/REPO_GESTOR)
+[![Sistema Urbans](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoSGP&repo=REPO_URBANS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=52d9a4&text_color=a8b2d8&icon_color=52d9a4)](https://github.com/LeonardoSGP/REPO_URBANS)
+[![Gestor de Proyectos](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoSGP&repo=REPO_GESTOR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=52d9a4&text_color=a8b2d8&icon_color=52d9a4)](https://github.com/LeonardoSGP/REPO_GESTOR)
 
 </div>
 
@@ -96,7 +92,7 @@ const leonardo = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonardoSGP)
 
 </div>
 
@@ -108,6 +104,6 @@ const leonardo = {
 
 *"El código limpio no se escribe siguiendo reglas. Se escribe cuando te importa el oficio."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=TU_USERNAME&color=52d9a4&style=flat-square&label=Visitas+al+perfil)
+![Visitor Count](https://komarev.com/ghpvc/?username=LeonardoSGP&color=52d9a4&style=flat-square&label=Visitas+al+perfil)
 
 </div>
